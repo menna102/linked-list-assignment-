@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625873567 source:d:\second communication\second term\data structure\assignment\assignment 2\array\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
